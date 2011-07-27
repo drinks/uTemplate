@@ -1,6 +1,3 @@
-μTemplate
-=========
-
 μTemplate is the simplest possible template renderer I could write in PHP.
 
 **Usage:**
